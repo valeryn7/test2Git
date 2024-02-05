@@ -3,4 +3,4 @@ def sum(a, b):
 # Path: test_hi.py
 import hi
 def test_sum():
-    assert hi.sum(2, 3) == 5
+    assert hi.sum(2, 4) == 5
